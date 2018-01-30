@@ -1,0 +1,166 @@
+﻿/*************************************************************FONTS**************************************************************/
+
+@font-face {
+    font-family: 'Xiomara-Script';
+    src: url('../fonts/Xiomara-Script.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Otto';
+    src: url('../fonts/Otto.ttf') format('truetype');
+}
+
+/*************************************************************COMMON**************************************************************/
+* {
+    box-sizing: border-box;
+}
+
+h3 {
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font: 20px "Lato", sans-serif;
+    color: #111;
+}
+
+.col-1 {
+    width: 8.33%;
+}
+
+.col-2 {
+    width: 16.66%;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.col-4 {
+    width: 33.33%;
+}
+
+.col-5 {
+    width: 41.66%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-7 {
+    width: 58.33%;
+}
+
+.col-8 {
+    width: 66.66%;
+}
+
+.col-9 {
+    width: 75%;
+}
+
+.col-10 {
+    width: 83.33%;
+}
+
+.col-11 {
+    width: 91.66%;
+}
+
+.col-12 {
+    width: 100%;
+}
+
+/*************************************************************HOMEPAGE**************************************************************/
+body, html {
+    height: 100%;
+    margin: 0;
+    color: #CDECFF;
+}
+
+
+.bgimg-1, .bgimg-2, .bgimg-3 {
+    position: relative;
+    background-attachment: fixed;
+    background-position: center 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bgimg-1 {
+    background-image: url('../Images/HomePage/test3.png');
+    min-height: 100%;
+}
+
+.bgimg-2 {
+    background-image: url('../Images/HomePage/test1.png');
+    min-height: 800px;
+}
+
+.bgimg-3 {
+    background-image: url('../Images/HomePage/test2.jpg');
+    min-height: 800px;
+    background-repeat: repeat;
+    background-size: auto;
+}
+
+.caption {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+}
+
+.foregroundDiv {
+    color: #777;
+    background-color: white;
+    padding: 70px 140px;
+    text-align: justify;
+}
+
+.foregroundDiv_dark {
+    color: #ddd;
+    background-color: #282E34;
+    text-align: center;
+    padding: 14px 80px;
+}
+
+.top_front_div {
+}
+
+.photoshootPics {
+    display: inline-block;
+}
+
+.caption span.border {
+    background-color: #111;
+    color: #fff;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 10px;
+}
+
+/****************************************************************HEADER ********************************************************************/
+header {
+    z-index: 999;
+    position: relative;
+}
+
+.left_header_text {
+    float: left;
+    width: 35%;
+    padding-left: 8%;
+}
+
+.right_header_text {
+    float: left;
+    width: 56%;
+}
+
+/**************************************************************MEDIA QUERIES **************************************************************/
+@media only screen and (max-device-width: 1024px) {
+    .bgimg-1, .bgimg-2, .bgimg-3 {
+        background-attachment: scroll;
+    }
+}
