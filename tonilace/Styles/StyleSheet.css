@@ -89,6 +89,7 @@ body, html {
 .bgimg-1 {
     background-image: url('../Images/HomePage/test3.png');
     min-height: 100%;
+    opacity: 0.85;
 }
 
 .bgimg-2 {
@@ -101,6 +102,7 @@ body, html {
     min-height: 800px;
     background-repeat: repeat;
     background-size: auto;
+    opacity: 0.65;
 }
 
 .caption {
@@ -131,6 +133,7 @@ body, html {
 
 .photoshootPics {
     display: inline-block;
+    width: 32%;
 }
 
 .caption span.border {
@@ -139,6 +142,17 @@ body, html {
     padding: 18px;
     font-size: 25px;
     letter-spacing: 10px;
+}
+
+.play {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    left: 50%;
+    top: 50%;
+    display: block;
+    background: url('../Images/HomePage/Video/play.png') 0 0 no-repeat;
+    margin: -37.5px 0 0 -37.5px;
 }
 
 /****************************************************************HEADER ********************************************************************/
@@ -156,6 +170,19 @@ header {
 .right_header_text {
     float: left;
     width: 56%;
+}
+
+/****************************************************************footer ********************************************************************/
+
+#footer {
+    text-align: center;
+    font-size: 14px;
+    margin-top: -100px;
+    position: relative;
+}
+
+.copyright {
+    color: black;
 }
 
 /**************************************************************MEDIA QUERIES **************************************************************/

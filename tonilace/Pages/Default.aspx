@@ -124,7 +124,89 @@ This website is the only place where i will post my most playful, secret, and ex
 
     <div style="position: relative;">
         <div class="foregroundDiv_dark">
-            <p>Scroll up and down to really get the feeling of how Parallax Scrolling works.</p>
+            <div id="latestVideos" class="cols" >
+                <h3 class="text-color-3">Other Scenes</h3>
+                <div id="list" class="liveshows-list">
+                    <div class="item">
+                        <p class="title"><a href="/scene/6866316/the-bookworm"><span>THE BOOKWORM</span> </a></p>
+                        <a href="/scene/6866316/the-bookworm" draggable="true">
+                            <div style="background-image: url(http://ec-small.centrofiles.com/h3/CoH9Id9aghI6qw3tNSNV9z5chZgr5.snXZh9mOfFFV5ZWVp3lwKcg0orS2IMPZlp8wschWL2fwUq-FBjLcPmyKorLi30K3OB2ATlXK7M0ua5LZPe2WRRuviUK7Y5GlpDCWUua3RZAc0bQEimmJF1zAj2usxdUcoSze2atHfMtqEgtcdB6cKSdVsk-S9WnFflBszpEj9hRfxEBonnnQN7uV5Q7Bo1mm9M6pLmb6CqBzLKvoIOLLqRjGyQhdmQ4Z-0/w270i.jpg)" class="thumb"><span class="play"></span></div>
+                        </a>
+                        <div class="fl">
+                            <p class="item-info"><span>Published:</span> <span class="link-color"><span>Sept 13, 2017</span></span></p>
+                            <p class="item-info"></p>
+                        </div>
+                        <div class="fright">
+                            <p class="item-info"><span>Length:</span> <span class="link-color"><span>9:20</span></span></p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <p class="title"><a href="/scene/6761404/stood-up" ><span>Stood 'UP!'</span> </a></p>
+                        <a href="/scene/6761404/stood-up" >
+                            <div style="background-image: url(http://ec-small.centrofiles.com/h3/CoH9Id9aghLHs5XyewuRRj5chZgr5.snpHBroNgtbCM9JgKNH9LjVUorS2IMPZlp8wschWL2fwUq-FBjLcPmyKorLi30K3OB2ATlXK7M0ua5LZPe2WRRuojeejq-facSgAM2CfkhlUmH6nbTrGq2CcINhpi6Nk6KmCpbhQKI5-kgtcdB6cKSdVsk-S9WnFflBszpEj9hRfxEBonnnQN7uV5Q7Bo1mm9M6pLmb6CqBzLKvoIOLLqRjGyQhdmQ4Z-0/w270i.jpg)" class="thumb"><span class="play"></span></div>
+                        </a>
+                        <div class="fl">
+                            <p class="item-info"><span>Published:</span> <span class="link-color"><span>June 26, 2017</span></span></p>
+                            <p class="item-info" ></p>
+                        </div>
+                        <div class="fright">
+                            <p class="item-info"><span>Length:</span> <span class="link-color"><span>10:20</span></span></p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <p class="title"><a href="/scene/6746482/mistress-toni""><span>Mistress Toni</span> </a></p>
+                        <a href="/scene/6746482/mistress-toni" draggable="true">
+                            <div style="background-image: url(http://ec-small.centrofiles.com/h3/CoH9Id9aghI9fqHr42.4ID5chZgr5.sn-RYZrNp87LRYYW0sVEKjYEorS2IMPZlp8wschWL2fwUq-FBjLcPmyKorLi30K3OB2ATlXK7M0ua5LZPe2WRRut1.LJYwDr.zaLjrQYF57IbTQmM0bxfRrHEUD9-5zl1LlgEY0Sz.hZUgtcdB6cKSdVsk-S9WnFflBszpEj9hRfxEBonnnQN7uV5Q7Bo1mm9M6pLmb6CqBzLKvoIOLLqRjGyQhdmQ4Z-0/w270i.jpg)" class="thumb"><span class="play"></span></div>
+                        </a>
+                        <div class="fl">
+                            <p class="item-info"><span>Published:</span> <span class="link-color"><span>June 12, 2017</span></span></p>
+                            <p class="item-info"></p>
+                        </div>
+                        <div class="fright">
+                            <p class="item-info"><span>Length:</span> <span class="link-color"><span>16:03</span></span></p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <p class="title"><a href="/scene/6740006/50-shades" draggable="true"><span>50 Shades</span> </a></p>
+                        <a href="/scene/6740006/50-shades" draggable="true">
+                            <div style="background-image: url(http://ec-small.centrofiles.com/h3/CoH9Id9aghL.jZ1ZR3mxuz5chZgr5.snKAp9YomP.WYZpkGUEsQWzEorS2IMPZlp8wschWL2fwUq-FBjLcPmyKorLi30K3OB2ATlXK7M0ua5LZPe2WRRukhUUnBoGrAPP2Tgwuszuykxxz81Rh4CbWU83pG.UZEF1-FMKt9YwBogtcdB6cKSdVsk-S9WnFflBszpEj9hRfxEBonnnQN7uV5Q7Bo1mm9M6pLmb6CqBzLKvoIOLLqRjGyQhdmQ4Z-0/w270i.jpg)" class="thumb"><span class="play"></span></div>
+                        </a>
+                        <div class="fl">
+                            <p class="item-info"><span>Published:</span> <span class="link-color"><span>June 05, 2017</span></span></p>
+                            <p class="item-info"></p>
+                        </div>
+                        <div class="fright">
+                            <p class="item-info"><span>Length:</span> <span class="link-color"><span>19:50</span></span></p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <p class="title"><a href="/scene/6711894/after-party" ><span>After Party</span> </a></p>
+                        <a href="/scene/6711894/after-party" draggable="true">
+                            <div style="background-image: url(http://ec-small.centrofiles.com/h3/CoH9Id9aghIgcsW7aBopuj5chZgr5.snQ9vcK1Q11I-ysDFHsW8IwEorS2IMPZlp8wschWL2fwUq-FBjLcPmyKorLi30K3OB2ATlXK7M0ua5LZPe2WRRuhCT.G1qQioK2ihidkiTQceaCtgdIQvJcpBzTuFiVv81WVJFU4NW3kogtcdB6cKSdVsk-S9WnFflBszpEj9hRfxEBonnnQN7uV5Q7Bo1mm9M6pLmb6CqBzLKvoIOLLqRjGyQhdmQ4Z-0/w270i.jpg)" class="thumb"><span class="play"></span></div>
+                        </a>
+                        <div class="fl">
+                            <p class="item-info"><span>Published:</span> <span class="link-color"><span>May 03, 2017</span></span></p>
+                            <p class="item-info" ></p>
+                        </div>
+                        <div class="fright">
+                            <p class="item-info"><span>Length:</span> <span class="link-color"><span>8:55</span></span></p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <p class="title"><a href="/scene/6706628/memories"><span>Memories</span> </a></p>
+                        <a href="/scene/6706628/memories">
+                            <div style="background-image: url(http://ec-small.centrofiles.com/h3/CoH9Id9aghIgcsW7aBopuj5chZgr5.snUEztmphgmyauDVwo7eLph0orS2IMPZlp8wschWL2fwUq-FBjLcPmyKorLi30K3OB2ATlXK7M0ua5LZPe2WRRuhCT.G1qQioK2ihidkiTQceaCtgdIQvJcpBzTuFiVv81WVJFU4NW3kogtcdB6cKSdVsk-S9WnFflBszpEj9hRfxEBonnnQN7uV5Q7Bo1mm9M6pLmb6CqBzLKvoIOLLqRjGyQhdmQ4Z-0/w270i.jpg)" class="thumb"><span class="play"></span></div>
+                        </a>
+                        <div class="fl">
+                            <p class="item-info"><span>Published:</span> <span class="link-color"><span>Apr 25, 2017</span></span></p>
+                            <p class="item-info" data-target-id="6706628"></p>
+                        </div>
+                        <div class="fright">
+                            <p class="item-info"><span>Length:</span> <span class="link-color"><span>11:10</span></span></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -134,5 +216,16 @@ This website is the only place where i will post my most playful, secret, and ex
         </div>
     </div>
 
+    <div id="footer" class="footer">
+        <p>All models appearing on this website are 18 year or older. <a href="/2257" draggable="true">Click here</a> for 18 U.S.C. 2257 Record Keeping Requirements Compliance Statement. </p>
+        <div>
+            <p>By entering this site, you swear that you are of legal age in your area to view adult material and that you wish to view such material. </p>
+            <p><a href="/account" class="text-color-4 pointer" draggable="true"><span>Account Management</span></a> <span class="text-color-1">&nbsp;|&nbsp;</span><a href="/privacy" title="Privacy Policy" draggable="true">Privacy Policy</a> <span class="text-color-1">&nbsp;|&nbsp;</span> <a href="/terms" title="Terms and Conditions" draggable="true">Terms and Conditions</a> <span class="text-color-1">&nbsp;|&nbsp;</span> <a id="_reportProblem" title="Customer Support" draggable="true">Technical Support</a></p>
+        </div>
+
+        <span class="copyright">Copyright &nbsp;<span>Toni Lace</span> all rights reserved. </span>
+
+
+    </div>
 </body>
 </html>
