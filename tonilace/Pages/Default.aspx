@@ -9,7 +9,7 @@
     <link href="../Styles/HomePageStyleSheet.css" rel="stylesheet" />
 </head>
 <body>
-    <header class="header-image">
+    <header class="header_blurb">
 
         <div class="left_header_text">
             <h2>Scotaland's finest</h2>
