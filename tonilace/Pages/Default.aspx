@@ -12,20 +12,21 @@
     <header class="header_blurb">
 
         <div class="left_header_text">
-            <h2>Scotaland's finest</h2>
-            <div class="flash">---------------------------</div>
-            <h2>All Enquiries</h2>
-            <p>Email - tonilace69@mail.com</p>
+            <h2 style="font-family: TT4; font-size: 9em;">Tori Lace</h2>
+
+
+
         </div>
         <div class="right_header_text">
+            <p>Email - tonilace69@mail.com</p>
+            <div class="flash">---------------------------</div>
+            <h2>All Enquiries</h2>
             <h2>OFFICIAL</h2>
             <h2>International glamour model/Adult Actress</h2>
             <p>UKAP Awards Best Gilf Finalist</p>
         </div>
 
     </header>
-
-
     <div class="bgimg-1">
         <div class="caption">
             <span class="border">SCROLL DOWN</span>
