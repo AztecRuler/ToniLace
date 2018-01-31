@@ -45,7 +45,7 @@ This website is the only place where i will post my most playful, secret, and ex
 
     <div class="bgimg-2">
         <div class="caption">
-            <span class="border" style="background-color: transparent; font-size: 25px; color: #f7f7f7;">JOIN NOW</span>
+            <span class="border" style="background-color: transparent; font-size: 25px; color: #f7f7f7;"><a class="border" style="background-color: transparent; font-size: 25px; color: #f7f7f7;" href="joinNow.aspx">JOIN NOW</a></span>
         </div>
     </div>
 
@@ -66,8 +66,8 @@ This website is the only place where i will post my most playful, secret, and ex
             </div>
             <div class="photoshootPics col-4">
 
-                <p class="PSTitle"><a href="/join"><span>My Big Boi!!!</span> </a></p>
-                <img src="../Images/HomePage/photoshoot/2.jpg" />
+                <p class="PSTitle"><a href="joinNow.aspx"><span>My Big Boi!!!</span> </a></p>
+                 <a href="joinNow.aspx"><img src="../Images/HomePage/photoshoot/2.jpg" /></a>
                 <div class="PSLinks">
                     <p class="total"><span>Number of pics:</span> <strong><span>96</span></strong></p>
                 </div>
@@ -76,8 +76,8 @@ This website is the only place where i will post my most playful, secret, and ex
             </div>
             <div class="photoshootPics col-4">
 
-                <p class="PSTitle"><a href="/join"><span>The Good! The Bad! &amp; The Ohhh So Innocent!</span> </a></p>
-                <img src="../Images/HomePage/photoshoot/3.jpg" />
+                <p class="PSTitle"><a href="joinNow.aspx"><span>The Good! The Bad! &amp; The Ohhh So Innocent!</span> </a></p>
+                 <a href="joinNow.aspx"><img src="../Images/HomePage/photoshoot/3.jpg" /></a>
                 <div class="PSLinks">
                     <p class="total"><span>Number of pics:</span> <strong><span>96</span></strong></p>
                 </div>
@@ -86,8 +86,8 @@ This website is the only place where i will post my most playful, secret, and ex
             </div>
             <div class="photoshootPics col-4">
 
-                <p class="PSTitle"><a href="/join"><span>'Miss Behavin' in the Toilet!!! </span></a></p>
-                <img src="../Images/HomePage/photoshoot/4.jpg" />
+                <p class="PSTitle"><a href="joinNow.aspx"><span>'Miss Behavin' in the Toilet!!! </span></a></p>
+                <a href="joinNow.aspx"> <img src="../Images/HomePage/photoshoot/4.jpg" /></a>
                 <div class="PSLinks">
                     <p class="total"><span>Number of pics:</span> <strong><span>96</span></strong></p>
                 </div>
@@ -96,8 +96,8 @@ This website is the only place where i will post my most playful, secret, and ex
             </div>
             <div class="photoshootPics col-4">
 
-                <p class="PSTitle"><a href="/join"><span>Toni Tease!!!</span> </a></p>
-                <img src="../Images/HomePage/photoshoot/5.jpg" />
+                <p class="PSTitle"><a href="joinNow.aspx"><span>Toni Tease!!!</span> </a></p>
+                <a href="joinNow.aspx"> <img src="../Images/HomePage/photoshoot/5.jpg" /></a>
                 <div class="PSLinks">
                     <p class="total"><span>Number of pics:</span> <strong><span>96</span></strong></p>
                 </div>
@@ -106,8 +106,8 @@ This website is the only place where i will post my most playful, secret, and ex
             </div>
             <div class="photoshootPics col-4">
 
-                <p class="PSTitle"><a href="/join"><span>Kipling's Delight's </span></a></p>
-                <img src="../Images/HomePage/photoshoot/6.jpg" />
+                <p class="PSTitle"><a href="joinNow.aspx"><span>Kipling's Delight's </span></a></p>
+                <a href="joinNow.aspx"> <img src="../Images/HomePage/photoshoot/6.jpg" /></a>
                 <div class="PSLinks">
                     <p class="total"><span>Number of pics:</span> <strong><span>96</span></strong></p>
                 </div>
@@ -126,7 +126,7 @@ This website is the only place where i will post my most playful, secret, and ex
     <div style="position: relative;">
         <div class="foregroundDiv_dark">
             <div id="latestVideos" class="cols" >
-                <h3 class="text-color-3">Other Scenes</h3>
+                <h3 class="text-color-3">VIEW MY VIDEOS</h3>
                 <div id="list" class="liveshows-list">
                     <div class="item">
                         <p class="title"><a href="VideoView.aspx?video=6866316""><span>THE BOOKWORM</span> </a></p>
